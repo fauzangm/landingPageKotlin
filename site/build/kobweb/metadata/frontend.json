@@ -1,0 +1,1 @@
+{"appEntry":{"fqn":"com.eduside.landingpage.MyApp"},"frontendData":{"pages":[{"fqn":"com.eduside.landingpage.pages.HomePage","route":"/"}],"kobwebInits":[],"silkInits":[{"fqn":"com.eduside.landingpage.updateTheme"}],"silkStyles":[],"silkVariants":[],"keyframesList":[]}}

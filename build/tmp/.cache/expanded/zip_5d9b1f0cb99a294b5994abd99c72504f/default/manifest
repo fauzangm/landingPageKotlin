@@ -1,0 +1,10 @@
+builtins_platform=JS
+unique_name=com.varabyte.kobweb\:client-server-models
+compiler_version=1.8.20
+depends=org.jetbrains.kotlinx\:kotlinx-serialization-core kotlin
+serializedKlibFingerprint=2jugfy1xst1jk.1n6wdagnbjdbb
+serializedIrFileFingerprints=SerializedIrFileFingerprint(fileFingerprint\=2qmvmd2g0sgc3.2dxd0x90rfpnc)
+jsOutputName=kobweb-client-server-models
+abi_version=1.7.0
+metadata_version=1.4.1
+ir_version=1.0.0

@@ -1,0 +1,10 @@
+abi_version=1.7.0
+builtins_platform=JS
+compiler_version=1.8.20
+depends=com.varabyte.kobweb\:kobweb-silk com.varabyte.kobwebx\:kobwebx-markdown com.varabyte.kobweb\:kobweb-core com.varabyte.kobweb\:kobweb-silk-icons-fa com.varabyte.kobweb\:kobweb-silk-widgets com.varabyte.kobweb\:kobweb-compose com.varabyte.kobweb\:compose-html-ext org.jetbrains.compose.html\:html-core org.jetbrains.compose.html\:internal-html-core-runtime org.jetbrains.compose.runtime\:runtime org.jetbrains.kotlinx\:kotlinx-serialization-json com.varabyte.kobweb\:client-server-models org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:atomicfu org.jetbrains.kotlinx\:kotlinx-serialization-core kotlin org.jetbrains.kotlin\:kotlinx-atomicfu-runtime
+ir_version=1.0.0
+jsOutputName=landingpage
+metadata_version=1.4.1
+serializedIrFileFingerprints=SerializedIrFileFingerprint(fileFingerprint\=22sqm8xur2yoa.3ovagbyb5uqwc) SerializedIrFileFingerprint(fileFingerprint\=2hbpm2b49tz33.2ju7s4rx5mg9n) SerializedIrFileFingerprint(fileFingerprint\=296do28z7wbu.2tj73uxvecql0) SerializedIrFileFingerprint(fileFingerprint\=2gdjm3gg0hko2.3blyrd59ly85e) SerializedIrFileFingerprint(fileFingerprint\=317wv8poyolq9.2fnghxo8y0vcu) SerializedIrFileFingerprint(fileFingerprint\=2ngld3rthfkiy.1ychkzbgwagkk) SerializedIrFileFingerprint(fileFingerprint\=1b8t8k8g4df4r.3ud1pchttmz0p) SerializedIrFileFingerprint(fileFingerprint\=1s9s9mbtabucz.5mqlgpg132k3)
+serializedKlibFingerprint=162lhdnx7lnsn.w7j2340w4gtm
+unique_name=com.eduside.landingpage\:site
